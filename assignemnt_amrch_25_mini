@@ -1,0 +1,7 @@
+1) Create a applicaition in react where a user can set his city in a component.
+then create a submit button.
+on clicking submit button you have to send the city name to the server using axios. 
+it should be able to set a cookie. 
+
+2) create a react component where you can set the cookie name, value, and time in minutes. 
+on clicking submit, it should be able to set the cooke.
